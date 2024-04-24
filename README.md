@@ -1,3 +1,5 @@
 # Temperature controlled fan
 
-[Tinkercad circuit](https://www.tinkercad.com/things/cRBWX7D7bBy-digital-fabrication-group-5-electronics)
+[Initial Tinkercad model](https://www.tinkercad.com/things/cRBWX7D7bBy-digital-fabrication-group-5-electronics)
+
+[Final Tinkercad model](https://www.tinkercad.com/things/fCZvW1MiPkM-copy-of-digital-fabrication-group-5-electronics)
